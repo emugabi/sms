@@ -2,16 +2,16 @@
 
 This is a java application that manages information about students perfomance, courses available and tutors information. Students can also track their progress over time. 
 
-# Screennshots
+# Screenshots
 
 ## Login
-<img src="https://i.imgur.com/Uy5J4Aj.png" width="200px" title="source: imgur.com">
+<img src="https://i.imgur.com/Uy5J4Aj.png" width="300px" title="source: imgur.com">
 
 ## Student UI
-<img src="https://i.imgur.com/lKb1aaR.png" width="200px"  title="source: imgur.com">
+<img src="https://i.imgur.com/lKb1aaR.png" width="300px"  title="source: imgur.com">
 
 ## Teacher UI
-<img src="https://i.imgur.com/W9dzWcQ.png" width="200px"  title="source: imgur.com" />
+<img src="https://i.imgur.com/W9dzWcQ.png" width="300px"  title="source: imgur.com" />
 
 # Setup
 There are four account types. 
