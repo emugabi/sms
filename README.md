@@ -15,11 +15,37 @@ This is a java application that manages information about students perfomance, c
 
 # Setup
 There are four account types. 
--Student
--Lecturers
--Data Entrants
--Administers
 
-Account roles determine the access level of each user account. 
+Student
+
+    `User : student`
+
+    `Password: student`
+
+Lecturers
+
+    `User : teacher`
+
+    `Password: teacher`
+
+Data Entrants
+
+    `User : data`
+
+    `Password: data`
+
+Administrator
+
+    `User : admin`
+
+    `Password: admin`
+
+
+
+### Account roles determine the access level of each user account. 
 
 Data validation is perfomed at every level to ensure consistency of the student and courses information.
+
+## Warning
+
+Passwords should not be stored as plain text. This is only a demo application
