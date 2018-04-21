@@ -3,11 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Elvis/Documents/NetBeansProjects/Student%20Registration/src/student/registration/administrator/AdministratorLandingPage.java</file>
-            <file>file:/C:/Users/Elvis/Documents/NetBeansProjects/Student%20Registration/src/student/registration/StudentLandingPage.java</file>
-            <file>file:/C:/Users/Elvis/Documents/NetBeansProjects/Student%20Registration/src/student/registration/dataentry/DataEntryLandingPage.java</file>
-            <file>file:/C:/Users/Elvis/Documents/NetBeansProjects/Student%20Registration/src/student/registration/LoginPage.java</file>
-            <file>file:/C:/Users/Elvis/Documents/NetBeansProjects/Student%20Registration/src/student/registration/utils/DBConnect.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/LoginPage.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/StudentLandingPage.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/teacher/TeacherLandingPage.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/dataentry/DataEntryLandingPage.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/administrator/AdministratorLandingPage.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/StudentRegistration.java</file>
+            <file>file:/Users/mac/Documents/Developer/MavericksRepo/student-system/src/student/registration/utils/DBConnect.java</file>
         </group>
     </open-files>
 </project-private>
