@@ -4,11 +4,14 @@ This is a java application that manages information about students perfomance, c
 
 # Screennshots
 
-<img src="https://i.imgur.com/Uy5J4Aj.png" title="source: imgur.com">
+## Login
+<img src="https://i.imgur.com/Uy5J4Aj.png" height="100px" title="source: imgur.com">
 
-<img src="https://i.imgur.com/lKb1aaR.png" title="source: imgur.com">
+## Student UI
+<img src="https://i.imgur.com/lKb1aaR.png" height="100px"  title="source: imgur.com">
 
-<img src="https://i.imgur.com/W9dzWcQ.png" title="source: imgur.com" />
+## Teacher UI
+<img src="https://i.imgur.com/W9dzWcQ.png" height="100px"  title="source: imgur.com" />
 
 # Setup
 There are four account types. 
